@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm s0r3-glitch</h1>
-<h3 align="center">A blue collared worker by day, and a developer by night</h3>
+<h3 align="center">Learning and creating programs to one day make something great</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0r3-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="s0r3-glitch" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [game-tracker](https://github.com/s0r3-glitch/Game-Tracker)
 
-- 🌱 I’m currently learning **Databases, GUI's, C, and Java**
+- 🌱 I’m currently learning **Databases, Python, C, and Java**
 
 - 👯 I’m looking to collaborate on [game-tracker](https://github.com/s0r3-glitch/Game-Tracker)
 
