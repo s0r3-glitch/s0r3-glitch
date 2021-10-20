@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [game-tracker](https://github.com/s0r3-glitch/Game-Tracker)
 
-- 🌱 I’m currently learning **Databases, Python, C, and Java**
+- 🌱 I’m currently learning **Databases, Python, C, Java, Pen Testing**
 
 - 👯 I’m looking to collaborate on [game-tracker](https://github.com/s0r3-glitch/Game-Tracker)
 
